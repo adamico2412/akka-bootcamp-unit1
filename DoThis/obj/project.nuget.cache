@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "39/vHqHLjPy4U73YOqXew6U1aRgWbgOmDQjj6Nodvfdwek9zni5cSHvEqo2oCxWxGYUrL/fcAot7TmQDmpenXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\austin.damico\\source\\practice\\Akka-BootCamp-Unit1\\DoThis\\WinTail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\austin.damico\\.nuget\\packages\\akka\\1.4.8\\akka.1.4.8.nupkg.sha512",
+    "C:\\Users\\austin.damico\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\austin.damico\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\austin.damico\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\austin.damico\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\austin.damico\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\austin.damico\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\austin.damico\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\austin.damico\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\austin.damico\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\austin.damico\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\austin.damico\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://teamcity.stratuslivedemo.com/guestAuth/app/nuget/v1/FeedService.svc'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Akka' 1.4.8 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-gpv5-rp6w-58r8",
+      "libraryId": "Akka",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
